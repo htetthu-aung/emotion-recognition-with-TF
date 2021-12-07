@@ -5,7 +5,7 @@ This is the emotion recognition project with TensorFlow
 
 ## Project Set up and Installation
 
-For the project, tensorflow, pandas, numpy, openCV  have to be installed.
+For this project, tensorflow, pandas, numpy, openCV  have to be installed.
 The jupyter notebook is used for analyzing the dataset.
 
 

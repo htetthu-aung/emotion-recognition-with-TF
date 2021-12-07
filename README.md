@@ -17,8 +17,7 @@ I used [face emotion recognition dataset](https://www.kaggle.com/c/challenges-in
 
 ## Script Files Used
 
-1.`emotion_Recognition.py` and `Emotion Recognition.ipynb` are used for the training the
-dataset.
+1.`emotion_Recognition.py` is used for training the model  and `Emotion Recognition.ipynb` is to analyze the data and testing.
 
 2.`Final_Output.py` is used for the final output testing with web cam.
 
